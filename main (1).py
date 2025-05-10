@@ -187,3 +187,5 @@ email.HTMLBody = f"""
 
 email.Send()
 print(email.To)
+
+print("==> Branch iteracao2 ativa: teste de diferenciação")
